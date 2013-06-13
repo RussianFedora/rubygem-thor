@@ -7,7 +7,7 @@
 Summary: A scripting framework that replaces rake, sake and rubigen
 Name: rubygem-%{gemname}
 Version: 0.18.1
-Release: 1%{?dist}
+Release: 2%{?dist}
 Group: Development/Languages
 License: GPLv2+ or Ruby
 URL:        http://%{gemname}.rubyforge.org/
